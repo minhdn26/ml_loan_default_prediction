@@ -1,0 +1,4 @@
+timestamp,model_name,auc_score,file_path
+20260319_0934,Logistic_Regression,0.7457915579518734,Logistic_Regression_AUC07458_20260319_0934.joblib
+20260319_0935,Random_Forest,0.6869917563039565,Random_Forest_AUC06870_20260319_0935.joblib
+20260319_0935,XGBoost,0.7327786160438048,XGBoost_AUC07328_20260319_0935.joblib
