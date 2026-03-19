@@ -23,6 +23,7 @@ __pycache__/
 # --- Dữ liệu & Model (Nên bỏ qua nếu file quá nặng) ---
 # Tùy chỉnh theo cấu trúc folder của bạn
 */notebooks/data/processed/*.joblib
+*/notebooks/data/processed/*.csv
 
 # --- Hệ điều hành ---
 .DS_Store
